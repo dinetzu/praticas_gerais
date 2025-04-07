@@ -10,7 +10,7 @@ if(tipolista == "n"): # Verfica o tipo de lista
             resposta = int(resposta)   # Define a variavel como valor inteiro
             lista.append(resposta) # Adiciona na lista
         except ValueError:
-            if resposta.lower() == "s": # 
+            if resposta.lower() == "s": 
                 break # Finaliza o loop
         else: 
                 print("Insira um número: \n")    
