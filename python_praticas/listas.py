@@ -64,4 +64,4 @@ elif (tipolista == "p"): # Lista para palavras(caracteres no geral)
 
         '''OBS:
                 Na lista de números há uma estrutura try-except, pois as letras não podem assumir valor numérico.
-                 No entanto, na lista de palavras não existe  essa preocupação porque números também são considerados caracteres. '''
+                No entanto, na lista de palavras não existe  essa preocupação porque números também são considerados caracteres. '''
